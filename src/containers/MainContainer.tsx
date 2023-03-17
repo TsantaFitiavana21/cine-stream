@@ -1,6 +1,6 @@
 import { Grid } from "@mui/material";
 import { MovieContainer } from "./MovieContainer";
-import { RightNavContainer } from "./RIghtNavContainer";
+import { RightNavContainer } from "./RightNavContainer";
 import { SidebarContainer } from "./SidebarContainer";
 
 export const MainContainer = () => {
