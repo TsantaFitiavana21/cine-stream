@@ -4,7 +4,7 @@ import { makeStyles } from "@mui/styles";
 export const MovieContainer = () => {
     const classes = useStyles()
 
-    return <Grid container item xs={7} className={classes.root}>
+    return <Grid container item xs={8} className={classes.root}>
         Movie Main container
     </Grid>;
 };
